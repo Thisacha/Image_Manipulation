@@ -24,9 +24,9 @@ newsize = (1280,720)
 
 #path name variablle 
 #edit the following path to suit your directory  
-pathdir = r''  #add your path here
+pathdir = r'add your path here'  
 os.chdir(pathdir) 
-#print(os.getcwd()) 
+
 
   
 # Function to increment count  
